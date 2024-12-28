@@ -8,7 +8,7 @@
 
 <h2 align="center">
   I'm  a Professional Web & Mobile & Blockchain developer 👨‍💻
-  working remotely since 2017 🚀
+  working remotely since 2016 🚀
 </h2>
 
 <h4>🔭 I’m currently working on [Github](https://github.com/michaeldavis94) - 🌱 I’m
