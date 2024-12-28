@@ -10,6 +10,7 @@
   I'm  a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2017 🚀
   I am looking for a new opportunity recently.
+  🌱 Currently exploring AI integratoin.
 </h2>
 
 <h4>🔭 I’m currently working on [Github](https://github.com/michaeldavis94) - 🌱 I’m
