@@ -6,12 +6,24 @@
   /> -->
 </div>
 
+
+
 <h2 align="center">
   I'm  a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2017 🚀
   I am looking for a new opportunity recently.
   🌱 Currently exploring AI integratoin.
 </h2>
+
+🔹 Full Stack Developer | 8+ years of experience
+
+🔹 Skilled in C/C++, Python, Java, React, and NetSuite
+
+💡 I love building clean, scalable solutions and solving complex problems with code.
+
+🌱 Currently exploring AI integratoin.
+
+📫 Reach out to collaborate on innovative projects or share ideas!
 
 <h4>🔭 I’m currently working on [Github](https://github.com/michaeldavis94) - 🌱 I’m
   currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
